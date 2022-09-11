@@ -1,8 +1,7 @@
 /*
  * uart.h
  *
- * Created: 8/23/2022 8:37:54 PM
- *  Author: mohamed gamal
+ *Author: fathy
  */ 
 #ifndef _uart_h_
 #define _uart_h_
