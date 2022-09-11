@@ -1,8 +1,7 @@
 /*
  * i2c.h
  *
- * Created: 9/1/2022 3:44:40 PM
- *  Author: DELL
+ * Author: fathy, Asmaa
  */ 
 #ifndef _i2c_h_ 
 #define _i2c_h_
