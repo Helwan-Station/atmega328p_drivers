@@ -2,8 +2,7 @@
  
 /*
 
-		TWI MAIN FILE
-		twi.c
+		Author: Asmaa, fathy
 */
 
 #include "i2c_driver.h"
