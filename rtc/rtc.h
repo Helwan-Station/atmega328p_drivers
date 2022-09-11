@@ -1,8 +1,7 @@
 /*
  * rtc.h
  *
- * Created: 9/4/2022 2:31:50 PM
- *  Author: mohamed gamal
+ * Author: fathy
  */
 #ifndef RTC_H_
 #define RTC_H_
