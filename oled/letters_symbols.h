@@ -1,8 +1,7 @@
 /*
  * letters_symbols.h
  *
- * Created: 9/4/2022 5:26:29 PM
- *  Author: eng5s
+ * Author: salma
  */ 
 
 
