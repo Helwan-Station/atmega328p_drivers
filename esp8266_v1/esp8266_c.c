@@ -1,8 +1,7 @@
 /*
  * esp8266_c.c
  *
- * Created: 9/4/2022 2:49:57 PM
- *  Author: eng5s
+ * Author: salma
  */ 
 
 #include "esp8266_c.h"
