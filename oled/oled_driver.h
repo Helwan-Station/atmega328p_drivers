@@ -1,8 +1,7 @@
 /*
  * oled_driver.h
  *
- * Created: 9/3/2022 1:40:04 AM
- *  Author: eng5s
+ * Author: salma
  */ 
 
 
