@@ -1,8 +1,7 @@
 /*
  * uart.c
  *
- * Created: 8/23/2022 8:38:18 PM
- *  Author: mohamed gamal
+ * Author: fathy
  */ 
 #include "uart.h"
 #include <avr/io.h>
