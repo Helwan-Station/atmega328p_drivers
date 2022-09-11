@@ -1,8 +1,7 @@
 /*
  * rtc.c
  *
- * Created: 9/4/2022 2:32:08 PM
- *  Author: mohamed gamal
+ * Author: fathy
  */ 
 #include "i2c_driver.h"
 #include "oled_driver.h"
